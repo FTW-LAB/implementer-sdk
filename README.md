@@ -2,19 +2,19 @@
 
 Fail-open implementer contracts for fielding
 
-**Org:** [FTW-LAB](https://github.com/FTW-LAB) · **Hub:** [https://ftwlab.com/tools](https://ftwlab.com/tools)
+**Securist** · [github.com/securist/implementer-sdk](https://github.com/securist/implementer-sdk) · [https://secur.ist/tools](https://secur.ist/tools)
 
 ```bash
-git clone https://github.com/FTW-LAB/implementer-sdk.git
+git clone https://github.com/securist/implementer-sdk.git
 cd implementer-sdk
 npm test
 ```
 
 ## Security
-See [SECURITY.md](./SECURITY.md) · https://ftwlab.com/security · ops@ftwlab.com
+[SECURITY.md](./SECURITY.md) · https://secur.ist/security · security@secur.ist
 
 ## Agent
-See [AGENT.md](./AGENT.md)
+[AGENT.md](./AGENT.md)
 
 ## Posture
 UNCLASSIFIED // PUBLIC SOURCE  

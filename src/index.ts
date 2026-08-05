@@ -1,6 +1,6 @@
-/** @ftw-lab/implementer-sdk — public scaffold (FTW-LAB). */
+/** @securist/implementer-sdk */
 export const packageId = 'implementer-sdk' as const
-export const org = 'FTW-LAB' as const
+export const org = 'securist' as const
 export function banner(): string {
-  return `[FTW Lab] ${org}/${packageId} · UNCLASSIFIED // PUBLIC SOURCE`
+  return `[Securist] ${org}/${packageId} · UNCLASSIFIED // PUBLIC SOURCE`
 }

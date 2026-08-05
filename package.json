@@ -1,15 +1,16 @@
 {
-  "name": "@ftw-lab/implementer-sdk",
+  "name": "@securist/implementer-sdk",
   "version": "0.1.0",
   "description": "Fail-open implementer contracts for fielding",
   "type": "module",
   "license": "MIT",
-  "repository": "https://github.com/FTW-LAB/implementer-sdk",
+  "repository": "https://github.com/securist/implementer-sdk",
+  "homepage": "https://secur.ist/tools",
   "scripts": {
     "test": "node -e \"console.log('ok', require('./package.json').name)\""
   },
   "keywords": [
-    "ftw-lab",
+    "securist",
     "infosec"
   ]
 }
