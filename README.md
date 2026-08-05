@@ -1,14 +1,23 @@
 # implementer-sdk
 
-FTW Lab **Implement** stage — typed contracts for legal fielding (org **FTW-LAB**).
+Fail-open implementer contracts for fielding
+
+**Org:** [FTW-LAB](https://github.com/FTW-LAB) · **Hub:** [https://ftwlab.com/tools](https://ftwlab.com/tools)
 
 ```bash
 git clone https://github.com/FTW-LAB/implementer-sdk.git
+cd implementer-sdk
+npm test
 ```
 
-- Legal-use headers · package telemetry only (no weight phone-home)
-- Site: https://ftwlab.com/tools
+## Security
+See [SECURITY.md](./SECURITY.md) · https://ftwlab.com/security · ops@ftwlab.com
 
-**Agent setup:** wire contracts under AUP; log `ops_package` events only.
+## Agent
+See [AGENT.md](./AGENT.md)
 
-ops@ftwlab.com
+## Posture
+UNCLASSIFIED // PUBLIC SOURCE  
+INFOSEC · OSINT · CTI · GEOIP · MODELS  
+
+Public source only. Authorized use. GeoIP is not identity.
